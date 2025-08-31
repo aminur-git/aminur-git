@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/aminur-in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:aminur.4mi@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://x.com/x_aminur"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x" /></a>
+  <a href="https://x.com/x_aminur" target="_blank"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x" /></a>
 </p>
 
 ---
