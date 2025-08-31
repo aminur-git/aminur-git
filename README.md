@@ -4,28 +4,28 @@
 </p>
 
 <!-- Introduction -->
-<h1 align="center">Hey 👋, I'm Aminur Rahman</h1>
-<h3 align="center">Full Stack Developer | Backend & ML Engineering</h3>
+<h1 align="center">MD AMINUR RAHMAN<h1/>
+<h3 align="center">Full Stack Developer | Lazy Coder</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aminur-git" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:pro.aminurrahman@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://x.com/aminurrahman_720"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x" /></a>
+  <a href="https://www.linkedin.com/in/aminur-in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:aminur.4mi@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://x.com/x_aminur"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x" /></a>
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **high-scale system design & microservices**  
-- 🌱 Learning **cloud architectures, serverless, & ML integration**  
-- 💬 Ask me about **Node.js, TypeScript, React, PostgreSQL, Supabase, Docker**  
-- 📫 Reach me at **pro.aminurrahman@gmail.com**  
+- 🔭 I’m currently working on **high-scale multi-tenant web applications with microservices and real-time features**  
+- 🌱 Learning **Python**  
+- 💬 Ask me about **Node.js, TypeScript, React, PostgreSQL, Supabase, MongoDB**  
+- 📫 Reach me at **aminur.4mi@gmail.com**  
 
 ---
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,ts,js,nodejs,express,python,cpp,java,graphql,postgres,mongodb,firebase,docker,nginx,linux,git,github,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,vite,next,ts,js,nodejs,express,python,postgres,mongodb,firebase,nginx,linux,debian,git,github,vscode&theme=light" />
 </p>
 
 ---
@@ -43,16 +43,15 @@
 ---
 
 ### 🏆 Achievements
-- 🚀 Built **full-stack apps** with React, Next.js, Node.js, PostgreSQL  
-- 🐳 Containerized microservices with Docker & deployed on VPS  
+- 🚀 Built **full-stack apps** with React, Next.js, Node.js, PostgreSQL, **Chrome Extension**.     
 - 📡 Experience with **real-time streaming & chat** integrations  
-- 📈 Worked with **AI/ML projects** in Python  
+- 📈 
 
 ---
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/aminur-git"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://x.com/aminurrahman_720"><img src="https://img.shields.io/badge/Twitter-black?style=flat&logo=x" /></a>
-  <a href="mailto:pro.aminurrahman@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/aminur-in/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:aminur.4mi@gmail.com"><img src="https://img.shields.io/badge/Twitter-black?style=flat&logo=x" /></a>
+  <a href="https://x.com/x_aminur"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" /></a>
 </p>
