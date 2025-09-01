@@ -25,7 +25,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,next,ts,js,nodejs,express,python,postgres,mongodb,firebase,nginx,linux,debian,git,github,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,redis,next,ts,js,nodejs,vite,express,postgres,mongodb,supabase,firebase,nginx,linux,debian,git,github,python,vscode&theme=light" />
 </p>
 
 ---
